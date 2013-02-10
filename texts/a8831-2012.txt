@@ -1,0 +1,60 @@
+                           S T A T E   O F   N E W   Y O R K
+       ________________________________________________________________________
+
+                                         8831
+
+                                 I N  A S S E M B L Y
+
+                                      (PREFILED)
+
+                                    January 4, 2012
+                                      ___________
+
+       Introduced  by M. of A. QUART -- read once and referred to the Committee
+         on Ways and Means
+
+       AN ACT to amend the tax law, in relation to providing a  tax  credit  to
+         individuals  for  up to two hundred dollars of expenses related to the
+         development and posting of an open source or free license program
+
+         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+       BLY, DO ENACT AS FOLLOWS:
+
+    1    Section  1.  Section  606  of  the  tax law is amended by adding a new
+    2  subsection (tt) to read as follows:
+    3    (TT) OPEN SOURCE OR FREE LICENSE  CREDIT.  (1)  A  TAXPAYER  SHALL  BE
+    4  ALLOWED A CREDIT, TO BE COMPUTED AS PROVIDED IN THIS SUBSECTION, AGAINST
+    5  THE  TAX  IMPOSED  PURSUANT TO SECTION SIX HUNDRED ONE OF THIS PART. THE
+    6  AMOUNT OF  CREDIT  SHALL  EQUAL  UP  TO  TWENTY  PERCENT  OF  THE  TOTAL
+    7  OUT-OF-POCKET  EXPENSES  OF  THE  TAXPAYER  USED IN THE DEVELOPMENT OF A
+    8  PROGRAM THAT IS PROVIDED TO THE PUBLIC UNDER  AN  OPEN  SOURCE  OR  FREE
+    9  SOFTWARE LICENSE, UP TO A MAXIMUM OF TWO HUNDRED DOLLARS.
+   10    (2)  FOR  THE PURPOSES OF THIS SUBSECTION, A PROGRAM SHALL QUALIFY FOR
+   11  THE CREDIT PROVIDED BY THIS SUBSECTION IF THE CODE FOR SUCH PROGRAM  HAS
+   12  BEEN RELEASED UNDER AN OPEN SOURCE LICENSE RECOGNIZED BY THE OPEN SOURCE
+   13  INITIATIVE,  OR  HAS  BEEN RELEASED UNDER A FREE SOFTWARE LICENSE RECOG-
+   14  NIZED BY THE FREE SOFTWARE FOUNDATION.
+   15    (3) THIS SUBSECTION SHALL APPLY TO ANY INDIVIDUAL FOR ANY TAXABLE YEAR
+   16  ONLY IF SUCH INDIVIDUAL ELECTS TO HAVE THIS SECTION APPLY FOR SUCH TAXA-
+   17  BLE YEAR. AN ELECTION TO HAVE THIS SECTION APPLY MAY NOT BE MADE FOR ANY
+   18  TAXABLE YEAR IF SUCH ELECTION IS IN EFFECT WITH RESPECT TO SUCH INDIVID-
+   19  UAL FOR ANY OTHER TAXABLE YEAR AND PERTAINING TO THE SAME PROGRAM OR ANY
+   20  PORTION THEREOF.
+   21    (4) IN NO EVENT SHALL THE  AMOUNT  OF  THE  CREDIT  PROVIDED  BY  THIS
+   22  SUBSECTION  EXCEED  THE TAXPAYER'S TAX FOR THE TAXABLE YEAR. HOWEVER, IF
+   23  THE AMOUNT OF CREDIT OTHERWISE ALLOWABLE PURSUANT TO THIS SUBSECTION FOR
+   24  ANY TAXABLE YEAR RESULTS IN SUCH EXCESS AMOUNT, ANY AMOUNT OF CREDIT NOT
+   25  DEDUCTIBLE IN SUCH TAXABLE YEAR MAY BE CARRIED  OVER  TO  THE  FOLLOWING
+
+        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+                             [ ] is old law to be omitted.
+                                                                  LBD00164-03-1
+       A. 8831                             2
+
+    1  YEAR  OR YEARS AND MAY BE DEDUCTED FROM THE TAXPAYER'S TAX FOR SUCH YEAR
+    2  OR YEARS.
+    3    S 2. This act shall take effect immediately and shall apply to taxable
+    4  years  beginning  on  and after the first of January next succeeding the
+    5  date on which it shall have become a law.
+
+
