@@ -64,3 +64,22 @@ Alternatives to Tax Deduction Case-Studies:
     CodeForAmerica.org
     SeeClickFix.com
     Challenge.gov
+
+Why Gov't Should be involved:
+    Improves quality of all software, including proprietary
+    supports under-invested and spill-over technology
+    provides analogous support to small-biz type enterprises (individual
+    developers don't have access to same tax relief vehicles as large companies
+    i.e. R&D tax credit)
+    Other nationstates, such as China and Korea, have even developed their own
+    linux distributions:
+        https://en.wikipedia.org/wiki/Red_Flag_Linux
+        https://en.wikipedia.org/wiki/Red_Star_OS
+        https://en.wikipedia.org/wiki/Category:State-sponsored_Linux_distributions
+    From a security perspective, projects like SELinux were developed in
+    public/private partnerships. SELinux is used for protecting classified
+    information, and is 'military grade' technology that only improves as more
+    people test it and audit the source code.
+    Bridging the digital divide
+        By offering affordable software, improves access to information,
+        vocation training, supplements public educational resources.
