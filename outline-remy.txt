@@ -1,0 +1,66 @@
+Should the Government endorse or promote Free/Open Source Software
+Development?
+
+Argument for Government:
+    http://opensourceforamerica.org
+    See Center for American Progress Report 2006
+    http://opensource.com/government/13/1/hackathon-hosted-new-york-state-senate
+    Obama Open Goverment Memo (Day one of first term)
+
+Argument for Business:
+    See Open Source Initiative's Business Case Studies:
+    http://opensource.org/advocacy/case_for_business.php
+        Support Sellers (otherwise known as "Give Away the Recipe, Open A
+        Restaurant"):
+            In this model, you (effectively) give away the software product,
+            but sell distribution, branding, and after-sale service. This is
+            what (for example) Red Hat does.
+        Loss Leader:
+            In this model, you give away open-source as a loss-leader and
+            market positioner for closed software. This is what Netscape is
+            doing (who would eventually became Mozilla)
+        Widget Frosting: 
+            In this model, a hardware company (for which software is a
+            necessary adjunct but strictly a cost rather than profit center)
+            goes open-source in order to get better drivers and interface tools
+            cheaper. Silicon Graphics, for example, supports and ships Samba.
+        Accessorizing:
+            Selling accessories - books, compatible hardware, complete systems
+            with open-source software pre-installed. It's easy to trivialize
+            this (open-source T-shirts, coffee mugs, Linux penguin dolls) but
+            at least the books and hardware underly some clear successes:
+            O'Reilly Associates, and SSC are among them.
+
+    Open Source Gold Mining:
+        http://www.fastcompany.com/44917/he-struck-gold-net-really
+
+Argument for Private Citizens:
+    See "The Open Source Way": http://opensource.com/open-source-way
+    Other Resources to follow
+
+
+Legislative Analysis:
+    https://github.com/decause/ritgradscitechpolsem-nys-foss-bills
+    Follow Legislative History of S0173, the $200 Individual Tax Deduction for FOSS
+    Development Bill in NYS
+        Screen Scrape Copies of Bill
+        Convert .pdf versions of Bill to .txt
+        use 'diff' tools on command-line to compare versions, show changes in
+        sponsorship and text over time.
+
+    NYS Joint Commission on Public Ethics
+        Query based on bill numbers
+        download retainer agreements
+        scour bi-monthly reports for evidence of lobbying activity
+
+    NYS Board of Elections and FEC Campaign Finance Database
+        Acquire historical campaign contribution history (8.0GB State, 15.1GB Federal)
+        query contribution history for specific bill numbers associated with NYS bills
+        query contribution history of keywords such as "Open Source" and "Free Software"
+        Compile lists of donors and contributors who gave money for/against
+        this bill, or other issues.
+
+Alternatives to Tax Deduction Case-Studies:
+    CodeForAmerica.org
+    SeeClickFix.com
+    Challenge.gov
