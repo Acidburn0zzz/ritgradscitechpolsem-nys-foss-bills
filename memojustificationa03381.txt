@@ -1,0 +1,28 @@
+JUSTIFICATION:
+
+"Open Source" refers to software offered for free online download along with
+its instruction set ("source code"). The New York State Assembly currently uses
+Open Source programs such as Mozilla for email, Firefox for web browsing, and
+WebCal for electronic calendars. The Assembly's use of this software has led to
+significant cost savings for the Assembly's operating budget. Once an Open
+Source program is downloaded with its source code, anyone can view the
+instructions, modify the program, and redistribute it with the same freedoms. A
+2006 report authored by John Irons and Carl Malamud from the Center for
+American Progress details how Open Source software provides a high social value
+amongst the group, but a relatively low economic incentive for individual
+developers. By allowing open access to the technology's source code, Open
+Source software enhances a broader dissemination of knowledge and ideas.
+Although large corporations such as IBM develop and use Open Source programs,
+most Open Source software is written by individuals volunteering from home.
+Currently, corporations and self-employed individuals who create Open Source
+technology are eligible for a tax deduction for their software development
+costs. The vast majority of Open Source software creators (individual
+volunteers), however, do not receive this tax credit. This legislation creates
+a similar tax credit incentive for individuals who currently have no means to
+deduct these expenses. The tax credit would apply only to out-of-pocket
+expenses such as Internet hosting and depreciated cost of capital expenses such
+as computers and education. The increased incentive for individuals would
+attract more Open Source developers to New York State, resulting in job
+creation and a reinvigoration of our State's technology sector. Additionally,
+an influx of Open Source software would lower operating costs for larger
+agencies (such as the Assembly), by providing usable software without charge.
